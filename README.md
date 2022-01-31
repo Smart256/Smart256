@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Smart256
 - 👀 I’m interested in development of app
-- 🌱 I’m currently learning how to vode
+- 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on app development
 - 📫 How to reach me ssly64486@gmail.com
 
